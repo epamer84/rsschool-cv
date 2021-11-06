@@ -34,3 +34,17 @@ function isMiniWin(ar){
 }
 ```
 
+### Work experience
+
+* Jan. 2020 &ndash; Mar. 2021 - EPAM Minsk
+  * Configuration of [Guidewire](https://en.wikipedia.org/wiki/Guidewire_Software) platform for insurance company. Used technologies - [GOSU](https://gosu-lang.github.io/) language
+* Dec. 2018 &ndash; Dec. 2019 - [Kompanion Bank](https://www.kompanion.kg/)
+  * Support and development of automated bank system, integration with external services. Used technologies - Java, PL/SQL, [CFT](https://www.cft.ru/)
+* Aug. 2016 &ndash; Jul. 2018 - [C Technology](https://ctechnology.kg/)
+  * Development of OnlineBank webapp for [Demir Bank](https://www.demirbank.kg/en-us). Used technologies - Java, Spring, PL/SQL
+
+### Languages
+
+Russian - Native  
+English - B2(evaluated by training.by online English test)
+  
