@@ -21,4 +21,16 @@ Now I am interested in front-end development and would like to start from very b
 * JavaScript, HTML, CSS
 * Git, Linux
 
+### Code sample
+
+This is a code sample of my solution of [Lottery Ticket](https://www.codewars.com/kata/57f625992f4d53c24200070e) kata
+
+```javascript
+function bingo(ticket, win){
+  return ticket.map(elt => isMiniWin(elt) ? 1 : 0).reduce((cur, next) => cur + next) >= win ? 'Winner!' : 'Loser!';
+}
+function isMiniWin(ar){ 	
+  return ar[0].indexOf(String.fromCharCode(ar[1])) != -1;
+}
+```
 
