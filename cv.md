@@ -43,6 +43,10 @@ function isMiniWin(ar){
 * Aug. 2016 &ndash; Jul. 2018 - [C Technology](https://ctechnology.kg/)
   * Development of OnlineBank webapp for [Demir Bank](https://www.demirbank.kg/en-us). Used technologies - Java, Spring, PL/SQL
 
+### Education
+
+Graduated from Kyrgyz State Technical University in 2008 with a telecom engineer diploma
+
 ### Languages
 
 Russian - Native  
