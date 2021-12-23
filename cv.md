@@ -17,6 +17,7 @@ Now I am interested in front-end development and would like to start from very b
 
 * Java
 * Spring
+* OOP, SOLID, GOF
 * Oracle, PL/SQL
 * JavaScript, HTML, CSS
 * Git, Linux
