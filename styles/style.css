@@ -30,7 +30,8 @@ header {
 	font-variant: small-caps;
 }
 
-.title h2 {
+.title p {
+	margin: 0.83em 0;
 	font-size: 24px;
 	font-weight: normal;
 }
