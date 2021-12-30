@@ -30,7 +30,8 @@ header {
 	font-variant: small-caps;
 }
 
-.title h2 {
+.title p {
+	margin: 0.83em 0;
 	font-size: 24px;
 	font-weight: normal;
 }
@@ -61,7 +62,7 @@ section {
 	display: flex;
 }
 
-section h3 {
+section h2 {
 	width: 28%;
 	margin-top: 0;
 	margin-bottom: 0;

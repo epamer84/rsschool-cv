@@ -1,1 +1,1 @@
-https://epamer84.github.io/rsschool-cv/
+https://epamer84.github.io/rsschool-cv/cv
