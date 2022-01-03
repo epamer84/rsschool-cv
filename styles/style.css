@@ -1,0 +1,148 @@
+.content {
+	width: 1000px;
+	margin: 50px auto;
+	font-family: sans-serif;
+	box-shadow: -10px -10px 20px 5px rgba(0, 0, 0, 0.4);
+	border-radius: 20px;
+	overflow: hidden;
+}
+
+header {
+	display: grid;
+	grid-template-rows: auto 60px;
+	grid-template-columns: 28% 42% 30%;
+	background-color: #ddd3c9;
+}
+
+.photo {
+	margin: 30px 0 0 30px;
+}
+
+.title {
+	margin-top: 20px;
+	margin-left: 20px;
+}
+
+.title h1 {
+	margin-top: 0;
+	margin-bottom: 20px;
+	font-size: 48px;
+	font-variant: small-caps;
+}
+
+.title p {
+	margin: 0.83em 0;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+.contacts {
+	margin-top: 35px;
+	margin-right: 30px;
+}
+
+.contacts a {
+	text-decoration: none;
+	color: #000000;
+}
+
+ul.contacts {
+	margin-bottom: 0;
+	padding-left: 0;
+	font-size: 20px;
+	line-height: 34px;
+	list-style: none;
+}
+
+.contacts img {
+	margin-right: 10px;
+}
+
+nav {
+	align-self: center;
+	grid-row-start: 2;
+	grid-row-end: 3;
+	grid-column-start: 1;
+	grid-column-end: -1;
+}
+
+nav ul {
+	display: flex;
+	justify-content: space-evenly;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color: #9f9891;
+	font-size: 22px;
+	font-variant: small-caps;
+}
+
+section {
+	display: flex;
+}
+
+section h2 {
+	width: 28%;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: -20px;
+	padding-top: 15px;
+	padding-right: 20px;
+	font-size: 24px;
+	text-align: right;
+	font-variant: small-caps;
+}
+
+.description {
+	width: 72%;
+}
+
+.description p,
+.description ul {
+	margin-right: 30px;
+	margin-left: 20px;
+	font-size: 18px;
+	line-height: 27px;
+	letter-spacing: 1px;
+	word-break: break-word;
+}
+
+.even {
+	background-color: #dadada;
+}
+
+.even .description {
+	background-color: #fbfbfb;
+}
+
+.odd {
+	background-color: #d2d3d5;
+}
+
+.odd .description {
+	background-color: #ffffff;
+}
+
+.code {
+	margin-right: 60px;
+	margin-bottom: 30px;
+	margin-left: 50px;
+	padding-left: 20px;
+	font-size: 14px;
+	border: 1px solid #d7d7d7;
+}
+
+pre {
+	margin: 0;
+}
+
+footer {
+	display: flex;
+	justify-content: space-between;
+	padding: 20px 30px;
+	background-color: #ddd3c9;
+}
